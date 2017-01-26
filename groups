@@ -1,5 +1,5 @@
-# UUID          Group Name
-False 	Non-Interactive Users
-2e2536e3697cad9b390f8d2f84037898acf5705d       	puppet/puppet-panko-distgit-core
-76332f521c07733fc147e72cc87a70ecf1e22226        	puppet/puppet-panko-distgit-ptl
-global:Registered-Users		Registered Users
+# UUID                                  	Group Name
+#
+2e2536e3697cad9b390f8d2f84037898acf5705d	puppet/puppet-panko-distgit-core
+76332f521c07733fc147e72cc87a70ecf1e22226	puppet/puppet-panko-distgit-ptl
+global:Registered-Users                 	Registered Users
