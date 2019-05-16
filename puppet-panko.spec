@@ -3,7 +3,7 @@
 %define upstream_name openstack-panko
 
 Name:                   puppet-panko
-Version:                11.6.0
+Version:                11.6.1
 Release:                1%{?dist}
 Summary:                Puppet module for OpenStack Panko Service
 License:                ASL 2.0
@@ -49,6 +49,9 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/panko/
 
 
 %changelog
+* Thu May 16 2019 RDO <dev@lists.rdoproject.org> 11.6.1-1
+- Update to 11.6.1
+
 * Fri Aug 10 2018 RDO <dev@lists.rdoproject.org> 11.6.0-1
 - Update to 11.6.0
 
