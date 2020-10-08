@@ -3,7 +3,7 @@
 %define upstream_name openstack-panko
 
 Name:                   puppet-panko
-Version:                17.4.0
+Version:                17.5.0
 Release:                1%{?dist}
 Summary:                Puppet module for OpenStack Panko Service
 License:                ASL 2.0
@@ -49,6 +49,9 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/panko/
 
 
 %changelog
+* Thu Oct 08 2020 RDO <dev@lists.rdoproject.org> 17.5.0-1
+- Update to 17.5.0
+
 * Tue Sep 29 2020 RDO <dev@lists.rdoproject.org> 17.4.0-1
 - Update to 17.4.0
 
