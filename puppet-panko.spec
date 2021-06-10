@@ -68,3 +68,4 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/panko/
 %changelog
 
 
+# REMOVEME: error caused by commit https://opendev.org/openstack/puppet-panko/commit/5a97842973a94efb8094ca7dc55377dfcec7571d
